@@ -7,6 +7,9 @@ En este proceso, se efectúan peticiones a una API de libros, la API Gutendex,  
 
 El usuario puede registrar libros en una base de datos y recibir información acerca de los libros que hay registrados
 El desafió está enfocado en el consumo de una API y la persistencia de datos.
+![image](https://github.com/user-attachments/assets/cea3d3fe-bd22-4a1b-808b-c3b2126cf959)
+
+
 
 ## Objetivo
 Desarrollar un Catálogo de Libros que ofrezca interacción textual (vía consola) con los usuarios, proporcionando al menos 5 opciones de interacción. 

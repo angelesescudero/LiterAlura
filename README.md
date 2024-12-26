@@ -86,9 +86,7 @@ spring.jpa.properties.hibernate.format_sql=true
 
 Reemplaza tu-usuario y tu-contraseña con los datos correspondientes de tu base de datos.
 
-Ejecuta el proyecto: Si usas IntelliJ IDEA, simplemente haz clic en el botón de Run o ejecuta el siguiente comando desde la terminal en el directorio raíz del proyecto: 
-Para ejecutar la aplicación, usa el siguiente comando: Esto iniciará el servidor y podrás acceder a la aplicación en tu navegador.
-
+Ejecuta el proyecto: Si usas IntelliJ IDEA, simplemente haz clic en el botón de Run
 
 
 

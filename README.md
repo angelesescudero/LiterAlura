@@ -1,7 +1,8 @@
-#**CHALLENGE LITERALURA**
+**CHALLENGE LITERALURA**
 
 En este emocionante desafío de programación, construi un catálogo de libros propio: el LiterAlura. 
-Gestión de Libros con Spring Boot que te permite gestionar un catálogo de libros Aprovechando , el proyecto ofrece a los usuarios la capacidad de buscar, filtrar y gestionar libros de dominio público de manera eficiente.
+Gestión de Libros con Spring Boot que te permite gestionar un catálogo de libros.
+El proyecto ofrece a los usuarios la capacidad de buscar, filtrar y gestionar libros de dominio público de manera eficiente.
 
 En este proceso, se efectúan peticiones a una API de libros, la API Gutendex,  se procesan datos en formato JSON, se almacenan en una base de datos PostgreSQL y, finalmente, se filtran y se muestran los libros y autores relevantes.
 

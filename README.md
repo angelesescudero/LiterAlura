@@ -78,11 +78,11 @@ Luego, configura los detalles de la base de datos en el archivo application.prop
 
 En el archivo application.properties  agrega estas líneas para conectar con PostgreSQL:
 
-spring.datasource.url=jdbc:postgresql://localhost:xxxx/literalura 
-spring.datasource.username=tu-usuario 
-spring.datasource.password=tu-contraseña 
-spring.jpa.hibernate.ddl-auto=update 
-spring.jpa.properties.hibernate.format_sql=true
+spring.datasource.url=jdbc:postgresql://localhost:xxxx/literalura  
+spring.datasource.username=tu-usuario   
+spring.datasource.password=tu-contraseña  
+spring.jpa.hibernate.ddl-auto=update  
+spring.jpa.properties.hibernate.format_sql=true  
 
 Reemplaza tu-usuario y tu-contraseña con los datos correspondientes de tu base de datos.
 
